@@ -1,1 +1,1 @@
-This is an Expense tracker website
+This is an Expense tracker website.
